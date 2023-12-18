@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trans"
+
+        android:icon="@drawable/noun_transaction_2455153"
+        android:title="Transections" />
+    <item
+        android:id="@+id/stats"
+
+        android:icon="@drawable/stats_svgrepo_com"
+        android:title="Stats"
+        />
+    <item
+        android:id="@+id/account"
+
+        android:icon="@drawable/account_user_group_people_person_profile_svgrepo_com"
+        android:title="Account" />
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/baseline_more_horiz_24"
+        android:title="More" />
+</menu>
